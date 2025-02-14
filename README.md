@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrauna
-- 👀 I’m interested in ...hacking skills
-- 🌱 I’m currently learning ...cyber security
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...you dont
 
