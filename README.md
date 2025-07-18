@@ -1,7 +1,6 @@
 -Hi i'm Carson.
 sofware development/engineering graduate|
-- Dataset used
-- https://www.kaggle.com/datasets/barun2104/telecom-churn
+
 - 
 - 
 - 
