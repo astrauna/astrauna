@@ -1,5 +1,5 @@
 -Hi i'm Carson.
-sofware development/engineering graduate|
+sofware developer|python|kotlin|java|javascript|typescript|django|react|mongoDB|SQL
 
 - 
 - 
